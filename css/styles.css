@@ -18,3 +18,7 @@ a{
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
 }
+
+.social-icons{
+    padding-top: 10px!important;
+}
