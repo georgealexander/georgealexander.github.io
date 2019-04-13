@@ -14,3 +14,7 @@ a{
 .social-icons a:hover{
   background-color: #C9CBCC!important;
 }
+
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
