@@ -30,6 +30,7 @@ a{
 .container {
   width: 300px;
    position:relative;
+    padding: 20px;
 }
 
 .image {
