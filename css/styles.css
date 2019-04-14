@@ -29,6 +29,7 @@ a{
 
 .container {
   width: 300px;
+    position:relative;
 }
 
 .image {
