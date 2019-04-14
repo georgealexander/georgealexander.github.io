@@ -28,15 +28,14 @@ a{
 
 
 .container {
-  width: 300px;
-  position:relative;
-  margin:20px;
+  position: relative;
+  width: 50%;
 }
 
 .image {
-  display: inline-block;
-  width: 300px;
-  height: 200px;
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .overlay {
@@ -44,7 +43,7 @@ a{
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #273035;
+  background-color: #008CBA;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -52,7 +51,7 @@ a{
 }
 
 .container:hover .overlay {
-  width: 300px;
+  width: 100%;
 }
 
 .text {
@@ -66,4 +65,3 @@ a{
   transform: translate(-50%, -50%);
   white-space: nowrap;
 }
-
