@@ -115,8 +115,8 @@ a{
 }
 
 .cs-style-4 figcaption {
-	height: 100%;
-	width: 50%;
+	height: 100%!important;
+	width: 50%!important;
 	opacity: 0;
 	backface-visibility: hidden;
 	transform-origin: 0 0;
@@ -127,13 +127,13 @@ a{
 
 .no-touch .cs-style-4 figure:hover figcaption,
 .cs-style-4 figure.cs-hover figcaption {
-	opacity: 1;
-	transform: rotateY(0deg);
-	transition: transform 0.4s, opacity 0.1s;
+	opacity: 1!important;
+	transform: rotateY(0deg)!important;
+	transition: transform 0.4s, opacity 0.1s!important;
 }
 
 .cs-style-4 figcaption a {
-	position: absolute;
-	bottom: 20px;
-	right: 20px;
+	position: absolute!important;
+	bottom: 20px!important;
+	right: 20px!important;
 }
