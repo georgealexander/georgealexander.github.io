@@ -28,7 +28,7 @@ a{
 
 
 .grid {
-	padding: 20px 20px 100px 20px;
+	padding: 20px 20px 100px 0px;
 	max-width: 1300px;
 	list-style: none;
 }
@@ -79,6 +79,8 @@ a{
 @media screen and (max-width: 31.5em) {
 	.grid {
 		padding: 10px 10px 100px 10px;
+		margin: 0 auto;
+		text-align: center;
 	}
 	.grid li {
 		width: 100%;
