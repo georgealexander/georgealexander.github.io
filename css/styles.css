@@ -72,4 +72,5 @@ a{
 .text:hover{
     color: #273035;
     background-color: white;
+    text-decoration: none;
 }
