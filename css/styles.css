@@ -29,7 +29,7 @@ a{
 
 .container {
   width: 300px;
-    position:relative;
+   position:relative;
 }
 
 .image {
@@ -45,13 +45,13 @@ a{
   right: 0;
   background-color: #273035;
   overflow: hidden;
-  width: 105%;
+  width: 0;
   height: 100%;
   transition: .5s ease;
 }
 
 .container:hover .overlay {
-  width: 300px;
+  width: 310px;
 }
 
 .text {
