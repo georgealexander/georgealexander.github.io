@@ -65,4 +65,6 @@ a{
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   white-space: nowrap;
+  padding: 10px;
+   border: 1px solid #fff;
 }
