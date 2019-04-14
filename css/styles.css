@@ -27,9 +27,11 @@ a{
 /* /////////////////////// PORTFOLIO /////////////////////// */
 
 
-.image-container {
+.img-container {
   position: relative;
   width: 50%;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .image {
@@ -52,11 +54,11 @@ a{
   text-align: center;
 }
 
-.image-container:hover .image {
+.container:hover .image {
   opacity: 0.3;
 }
 
-.image-container:hover .middle {
+.container:hover .middle {
   opacity: 1;
 }
 
@@ -66,7 +68,3 @@ a{
   font-size: 16px;
   padding: 16px 32px;
 }
-
-
-
-
