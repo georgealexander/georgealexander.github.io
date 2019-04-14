@@ -30,6 +30,7 @@ a{
 .container {
   width: 300px;
   position:relative;
+    margin:20px;
 }
 
 .image {
@@ -66,6 +67,3 @@ a{
   white-space: nowrap;
 }
 
-.row{
-padding:20px;
-}
