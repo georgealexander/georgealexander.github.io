@@ -68,3 +68,8 @@ a{
   padding: 10px;
   border: 1px solid #fff;
 }
+
+.text:hover{
+    color: #273035;
+    background-color: white;
+}
