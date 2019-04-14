@@ -28,13 +28,12 @@ a{
 
 
 .container {
-  position: relative;
   width: 300px;
 }
 
 .image {
   display: inline-block;
-  width: 300px;
+  width: 310px;
   height: 200px;
 }
 
