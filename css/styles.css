@@ -70,7 +70,7 @@ a{
 }
 
 .text:hover{
-    
+    color: #273035!important;
     background-color: white;
     text-decoration: none;
 }
