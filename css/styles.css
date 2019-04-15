@@ -32,6 +32,9 @@ a{
     color: #343A40!important;
 }
 
+.dev-icons .list-inline-item i:hover {
+  color: #007bff!important;
+}
 
 /* /////////////////////// PORTFOLIO /////////////////////// */
 
