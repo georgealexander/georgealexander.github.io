@@ -3,6 +3,15 @@
 }
 
 
+a{
+    color: color: #343A40!important;
+}
+
+a:hover{
+    text-decoration:none!important;
+    color: #C9CBCC!important;
+}
+
 h3{
     color: #343A40!important;
 }
