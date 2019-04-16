@@ -47,12 +47,41 @@ h3{
 }
 
 .html5:hover{
-	color:orange!important;
+	color:#F06026!important;
 }
 
 .css3:hover{
-	color:blue!important;
+	color:#1B70B5!important;
 }
+
+.boostrap:hover{
+	color:#563D7C!important;
+}
+
+.adobe:hover{
+	color:#red!important;
+}
+
+.javascript:hover{
+	color:yellow!important;
+}
+
+.gitlab:hover{
+	color:orange!important;
+}
+
+.markdown:hover{
+	color:black!important;
+}
+
+.github:hover{
+	color:black!important;
+}
+
+
+
+
+
 
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
