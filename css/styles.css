@@ -63,6 +63,10 @@ h3{
   color: #007bff!important;
 }
 
+.fa-html5:hover{
+    color: #E54C27!important;
+}
+
 .fas{
 font-size: 1rem;
 vertical-align: middle;
