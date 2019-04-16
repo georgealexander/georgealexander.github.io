@@ -133,7 +133,7 @@ figcaption a {
 figcaption a:hover{
   color: #000!important;
   background: #C9CBCC!important;
-  transition:0.5s; /* A .5 second transition. */
+  transition:0.5s!important; /* A .5 second transition. */
 }
 
 figcaption {
