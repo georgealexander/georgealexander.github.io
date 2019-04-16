@@ -47,12 +47,12 @@ h3{
     padding-top: 10px!important;
 }
 
-.fa-linkedin-in:hover{
+.social-icons .fa-linkedin-in:hover{
     background-color: #1776B5!important;
     color: #fff!important;
 }
 
-.fa-behance:hover{
+.social-icons .fa-behance:hover{
     background-color: #0E62D4!important;
     color: #fff!important;
 }
