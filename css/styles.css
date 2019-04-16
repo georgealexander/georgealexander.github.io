@@ -134,6 +134,7 @@ figcaption a {
 figcaption {
   width: 100%;
   color: #000;
+  padding-top: 20px;
   text-align: center;
   text-decoration: none;
   font-family: verdana;
