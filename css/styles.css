@@ -10,6 +10,7 @@ a{
 a:hover{
     text-decoration:none!important;
     color: #C9CBCC!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 h3{
