@@ -31,7 +31,7 @@ h3{
 .projects a:hover{
     text-decoration:none!important;
     color: #C9CBCC!important;
-    transition:1s; /* A 1 second transition. */
+    transition:0.5s; /* A 1 second transition. */
 }
 
 .nav-item a{
