@@ -71,6 +71,12 @@ h3{
     
 }
 
+
+.dev-icons .list-inline-item fa-css3:hover{
+  color: #1B70B5!important;
+    
+}
+
 .fas{
 font-size: 1rem;
 vertical-align: middle;
