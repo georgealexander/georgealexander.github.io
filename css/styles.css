@@ -24,6 +24,10 @@ a:hover{
     color: #C9CBCC!important;
 }
 
+.nav-item a{
+    color: #C9CBCC!important;
+}
+
 .social-icons a:hover{
   background-color: #C9CBCC!important;
 }
