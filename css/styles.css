@@ -15,11 +15,11 @@ h3{
   color: #C9CBCC!important;
 }
 
-projects a{
+.projects a{
   color: #343A40!important;
 }
 
-projects a:hover{
+.projects a:hover{
     text-decoration:none!important;
     color: #C9CBCC!important;
 }
