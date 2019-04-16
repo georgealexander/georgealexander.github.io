@@ -121,8 +121,8 @@ figure:hover img {
 
 figcaption a {
   width: 100%;
-  color: #fff;
-  background: #273035;
+  color: #fff!important;
+  background: #273035!important;
   padding: 10px;
   text-align: center;
   text-decoration: none;
@@ -131,9 +131,9 @@ figcaption a {
 }
 
 figcaption a:hover{
-  color: #000;
-  background: #C9CBCC;
-  transition:1s; /* A .5 second transition. */
+  color: #000!important;
+  background: #C9CBCC!important;
+  transition:0.5s; /* A .5 second transition. */
 }
 
 figcaption {
