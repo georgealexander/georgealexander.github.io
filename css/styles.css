@@ -46,6 +46,14 @@ h3{
 	background-color: #1777B5!important;
 }
 
+.html5:hover{
+	color:orange;
+}
+
+.css3:hover{
+	color:blue;
+}
+
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
 }
@@ -73,16 +81,7 @@ h3{
     color: #343A40!important;
 }
 
-.dev-icons .list-inline-item fa-html5:hover{
-  color: #E54C27!important;
-    
-}
 
-
-.dev-icons .list-inline-item fa-css3-alt:hover{
-  color: #1B70B5!important;
-    
-}
 
 .fas{
 font-size: 1rem;
