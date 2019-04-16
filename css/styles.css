@@ -50,6 +50,10 @@ h3{
     padding-top: 10px!important;
 }
 
+.fab .fa-linkedin-in:hover{
+	background-color: #1776B5!important;
+    color: #fff!important;
+}
 
 .subheading .mb-3 a{
     color: #343a40!important;
