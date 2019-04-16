@@ -133,7 +133,7 @@ figcaption a {
 figcaption a:hover{
   color: #000!important;
   background: #C9CBCC!important;
-  transition:0.5s!important; /* A .5 second transition. */
+  transition:1s;/* A .5 second transition. */
 }
 
 figcaption {
@@ -155,6 +155,7 @@ figcaption {
 figure:hover figcaption, figcaption a {
   bottom: 80%;
   opacity: 1;
+ transition:0.5s;
 }
 
 figure:hover {
