@@ -37,7 +37,10 @@ h3{
     color: #C9CBCC!important;
 }
 
-
+.behance:hover{
+	background-color: #1B70B5!important;
+	color: #fff!important;
+}
 
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
@@ -51,6 +54,8 @@ h3{
   background-color: #C9CBCC!important;
     color: #fff!important;
 }
+
+.social-icons a
 	
 .dev-icons .list-inline-item i:hover {
   color: #007bff!important;
