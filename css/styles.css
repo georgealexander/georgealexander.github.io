@@ -47,11 +47,11 @@ h3{
 }
 
 .html5:hover{
-	color:orange;
+	color:orange!important;
 }
 
 .css3:hover{
-	color:blue;
+	color:blue!important;
 }
 
 .mb-5, .my-5 {
