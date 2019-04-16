@@ -41,42 +41,52 @@ h3{
 .behance:hover{
 	background-color: #0E62D4!important;
 	color: #fff!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .linkedin:hover{
 	background-color: #1777B5!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .html5:hover{
 	color:#F06026!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .css3:hover{
 	color:#1B70B5!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .bootstrap:hover{
 	color:#563D7C!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .adobe:hover{
 	color:#FA1100!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .javascript:hover{
 	color:#F0D920!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .gitlab:hover{
 	color:#FA6D26!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .markdown:hover{
 	color:black!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 .github:hover{
 	color:black!important;
+	transition:0.5s; /* A 1 second transition. */
 }
 
 
