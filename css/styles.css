@@ -47,9 +47,16 @@ h3{
     padding-top: 10px!important;
 }
 
-.fab .fa-linkedin-in:hover{
-	background-color: #1776B5!important;
+.fa-linkedin-in:hover{
+    background-color: #1776B5!important;
     color: #fff!important;
+}
+
+.fa-behance:hover{
+    background-color: #0E62D4!important;
+    color: #fff!important;
+}
+	
 }
 
 .subheading .mb-3 a{
