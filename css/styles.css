@@ -101,6 +101,11 @@ ul{
 }
 
 
+.sass:hover{
+	color: #CF6C9C!important;
+	transition:0.5s; /* A 1 second transition. */
+}
+
 /* */
 
 figure {
